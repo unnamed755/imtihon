@@ -1,0 +1,49 @@
+.sunnatbe{
+    text-align: center; 
+    border-radius: 30px;
+    border: 6px solid red;
+}
+.said{
+    color: black;
+}
+.tek{
+    color: red;
+}
+.habi{
+    color: red;
+}
+.saidakbar{
+    color: yellow;
+}
+.sunnat{
+    color: green;
+}
+.yusupov{
+    color: grey;
+}
+caption{
+    background-color: yellow ;
+}
+.temur{
+    text-align: center;
+    width: 900px;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+tr , td, th {
+    border: 1px solid black;
+}
+.qizil{
+    background-color: red;
+}
+.fiyal{
+    background-color: blueviolet;
+
+}
+.yashil{
+    background-color: green;
+}
+.jon{
+    background-color: green;
+}
+
